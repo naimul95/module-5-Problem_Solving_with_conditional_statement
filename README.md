@@ -102,7 +102,7 @@ int main()
 
 ## Understanding character 
 
-![alt text](image.png)
+
 
 ```c
 #include <stdio.h>
